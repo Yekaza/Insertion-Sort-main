@@ -8,7 +8,9 @@
 * [2,6,16,18,27,22]
 * [2,6,16,18,22,27]
 
-Sıralama sonun 18 verisi **'Worst Case'** kapsamına girer.
+Big O = n^2
+
+Sıralama sonunda 18 verisi **'Worst Case'** kapsamına girer.
 
 # Selection Sort
 
